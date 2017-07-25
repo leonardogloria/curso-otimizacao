@@ -1,19 +1,24 @@
-.item {
+.lista-premios {
     border:solid 2px 
     black;border-radius: 200px;
-    width:200px; 
-    height:200px 
+    width:150px; 
+    height:150px 
 }
 
-.item-regua {
-    width: 100px;
-    height: 100px;
+.img-primeiro {
+  width: 160px;
+  height: 90px;
+  margin:27px 0px;
+}
+.item-primeiro {
+    width: 80px;
+    height: 80px;
     margin:43px 47px!important; 
-    background-image: url('../img/icones.png'); 
+    background-image: url('../img/trophy_first.png'); 
     display:block;
     background-repeat:no-repeat
 }
-.item-camera {
+.item-segundo {
     width: 100px;
      height: 100px;
       margin:49px 49px!important; 
@@ -22,7 +27,7 @@
       background-repeat:no-repeat;
       
 }
-.item-share {
+.item-terceiro {
      width: 100px;
      height: 100px;
       margin:43px 47px!important; 
